@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Multi-Highlight Pro",
+  "version": "2.0",
+  "description": "Modern multi-word highlighter for Chrome.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
